@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension type="plugin" group="system" method="upgrade">
-	<name>vsheadings</name>
-	<author>Vanshita Singh</author>
+	<name>joomla</name>
+	<author>Ayush gadre</author>
 	<creationDate>April 2022</creationDate>
-	<authorEmail>singhvanshita898@gmail.com</authorEmail>
-	<authorUrl>https://github.com/Vanshitasingh</authorUrl>
+	<authorEmail>ayushgadre786@gmail.com</authorEmail>
+	<authorUrl>https://github.com/Ayushgadre</authorUrl>
 	<version>1.0.0</version>
 	<description>A Heading plugin that concatenates your text with the heading of your site.</description>
 	<files>
-		<filename plugin="vsheadings">vsheadings.php</filename>
+		<filename plugin="Ayush joomla 4 plugin">joomla.php</filename>
 	</files>
-	<media folder="media" destination="plg_system_vsheadings">
+	<media folder="media" destination="plg_system_joomla">
 	</media>
 	<languages>
-		<language tag="en-GB">language/en-GB.plg_system_vsheadings.ini</language>
+		<language tag="en-GB">language/en-GB.plg_system_joomla.ini</language>
 	</languages>
 	<config>
 		<fields name="params">
